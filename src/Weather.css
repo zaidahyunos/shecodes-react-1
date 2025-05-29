@@ -1,0 +1,49 @@
+.container {
+  border-radius: 10px;
+  background-color: #f9f7fe;
+}
+
+.city {
+  background-color: white;
+  border: none;
+  color: rgba(39, 33, 66, 0.4);
+  font-size: 16px;
+  padding: 10px;
+  margin-bottom: 0px;
+  width: 100%;
+  border-radius: 6px;
+}
+
+.button {
+  font-size: 16px;
+  background-color: #885df1;
+  color: white;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  line-height: 1.5;
+  border-radius: 5px;
+}
+
+.bottom {
+  border-bottom: 2px solid #885df1;
+  margin-bottom: 40px;
+}
+
+.current-city {
+  font-weight: 700;
+  margin: 0;
+}
+
+.temperature-icon {
+  margin-right: 10px;
+}
+
+.temperature-value {
+  font-weight: bold;
+}
+
+.temperature-unit {
+  position: relative;
+  top: -20px;
+}
